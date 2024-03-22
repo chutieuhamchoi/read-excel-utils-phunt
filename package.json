@@ -1,0 +1,28 @@
+{
+  "name": "read-excel-utils-phunt",
+  "version": "1.0.0",
+  "description": "library for reading  Excel files in Node.js used read-excel-utils-phunt npm library",
+  "main": "1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chutieuhamchoi/read-excel-utils-phunt"
+  },
+  "keywords": [
+    "excel-utils"
+  ],
+  "author": "HP161",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chutieuhamchoi/read-excel-utils-phunt/issues"
+  },
+  "homepage": "https://github.com/chutieuhamchoi/read-excel-utils-phunt#readme",
+  "dependencies": {
+    "excel-utils-phuongdh": "^1.0.1",
+    "exceljs": "^4.4.0",
+    "read-excel-utils-phuongdh": "^1.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
