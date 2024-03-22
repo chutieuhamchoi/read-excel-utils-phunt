@@ -5,10 +5,10 @@
 
 
 ## Helpful links
-- [Documentation](https://github.com/chutieuhamchoi/read-excel-utils-phunth)
+- [Documentation](https://github.com/chutieuhamchoi/read-excel-utils-phunt)
 
-- [See on NPM package](https://www.npmjs.com/package/read-excel-utils-phunth)
+- [See on NPM package](https://www.npmjs.com/package/read-excel-utils-phunt)
 
 ## Licence
 [MIT](./LICENSE)
-# read-excel-utils-phunth
+# read-excel-utils-phunt
